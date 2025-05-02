@@ -46,3 +46,8 @@ textarea {
     margin-bottom: 20px;
 }
 
+/* Resultados */
+.results p {
+    font-size: 18px;
+    margin: 10px 0;
+}
